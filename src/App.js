@@ -1,13 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Terms from './Terms/Terms';
-import NavBar from './Navbar';
+import Main from './Main';
+import { Route, Routes } from 'react-router-dom';
 function App() {
   return (
-    <div>
-      <NavBar/>
-      <Terms/>
-    </div>
+      <Routes>
+        <Route exact path="/" element={<Main/>} />
+      </Routes>
   );
 }
 
