@@ -48,7 +48,7 @@ export default function Terms() {
             ...FONTS.body3,
             wordSpacing: 2
           }}>
-            When you subscribe to Herd Help Premium, Payments will be charged to your Google Play / Apple account. Auto renewal may be turned off at any time. Current price for Herd Help is $6.99 per month. Your first 3 day are free. Herd Help is a tool to track your animals weights, health, treatments, lineage, profits and losses.
+            When you subscribe to Herd Help Premium, Payments will be charged to your Google Play / Apple account. Auto renewal may be turned off at any time. Current price for Herd Help is $6.99 per month. Your first 3 days are free. Herd Help is a tool to track your animals weights, health, treatments, lineage, profits and losses.
             </p>
           <h3 style={{
             ...FONTS.body2,
